@@ -1,11 +1,12 @@
 body {
+  text-align: center;
 }
 
 .element-display {
   margin-top: 1px;
   border-color: blue;
   border-style: solid;
-  border-width: thin;
+
 }
 
 .element-quantity-input {	  
