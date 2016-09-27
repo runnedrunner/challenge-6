@@ -3,12 +3,12 @@ body {
 
 .element-display {
   margin-top: 1px;
+  border-color: blue;
+  border-style: solid;
+  border-width: thin;
 }
 
 .element-quantity-input {	  
   margin-top: 1px;
 }
-.new-el {
-  border-color: blue;
-  border-style: 
-}
+2
