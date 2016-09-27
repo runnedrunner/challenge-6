@@ -12,8 +12,9 @@ quantityInput.keydown(function(e) {
 })
 
 function addElementsToThePage(numberOfElements) {	  
-  $(".element-display").remove();
+  $(".new-el").remove();
   for (var i = 0; i < numberOfElements; i++) {	
+    console.log("hi");
     $(".element-display").append("<div class='new-el'>Hi there!</div>");
   }
 }
